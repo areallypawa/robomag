@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "name": "Процессор Intel Core i5-11600KF CM8070804491415 CPU",
+        "img": "https://i.ibb.co/ymCkcz1/image.png",
+        "price": 12500,
+        "category": "Компьютерные-составляющие",
+        "quantity": 0,
+        "about_one": "Сокет - LGA1200" ,
+        "about_sec": "Тип памяти - DDR4"
+    },
+    {
+        "id": 2,
+        "name": "Термопаста Noctua NT-H1 3,5г",
+        "price": 1100,
+        "quantity": 0,
+        "category": "Компьютерные-составляющие",
+        "img": "https://i.ibb.co/S5jyGw2/image.png",
+        "about_one": "Плотность - 10 г/см³",
+        "about_sec": "Вес - 3.5 г"
+    },
+    
+    {
+        "id": 4,
+        "name": "Кастомные флеш-накопители",
+        "price": 500,
+        "quantity": 0,
+        "category": "Флешки",
+        "img": "https://i.ibb.co/Zcsg6gr/image.png",
+        "about_one": "16 / 32 / 64 GB",
+        "about_sec": "Скорость передачи данных - 32Kbi"
+    },
+    {
+        "id": 5,
+        "name": "Провод USB - Type C, A, ligtning",
+        "price": 800,
+        "quantity": 0,
+        "category": "Зарядные-устройства",
+        "img": "https://i.ibb.co/w4kjqmR/image.png",
+        "about_one": "Сила тока - 2A",
+        "about_sec": "Мощность 10 Вт"
+    },
+    {
+        "id": 6,
+        "name": "Блок питания для зарядки телефона",
+        "price": 1500,
+        "quantity": 0,
+        "category": "Зарядные-устройства",
+        "img": "https://i.ibb.co/W5ZzK2Z/image.png",
+        "about_one": "Разъем на блоке питания - USB Type-A",
+        "about_sec": "Тип - сетевое зарядное устройство"
+    },
+    {
+        "id": 7,
+        "name": "установка Windows / Linux / Kali Linux / Ubuntu на дому",
+        "price": 700,
+        "quantity": 0,
+        "category": "Услуга",
+        "img": "https://i.ibb.co/qWT0w51/image.png",
+        "about_one": "В течении 30 минут установлю ОС",
+        "about_sec": ""
+    },
+    {
+        "id": 8,
+        "name": "Ремонт компьютера",
+        "price": 1500,
+        "quantity": 0,
+        "category": "Услуга",
+        "img": "https://i.ibb.co/x6xgTtW/image.png",
+        "about_one": "Обнаружу проблему и постараюсь устранить",
+        "about_sec": "Работаю с любыми ОС"
+    }
+]
